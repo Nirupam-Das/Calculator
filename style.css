@@ -1,12 +1,12 @@
 body{
     background: linear-gradient(20deg, #fd7489, #8d58e9, #00bfff);
+    background-size: 100% 100%;
 }
 
 .contain{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
 }
 .container{
     display: grid;
